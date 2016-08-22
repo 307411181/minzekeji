@@ -18,7 +18,7 @@
 {
     
     self.image = [UIImage imageNamed:@"1"];
-    
+//    我是php1  
 }
 
 

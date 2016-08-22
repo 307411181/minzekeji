@@ -14,12 +14,12 @@
 
 
 
-//- (void)initWithImage
-//{
-//    
-//    self.image = [UIImage imageNamed:@"zhuce1"];
-//    
-//}
+- (void)initWithImage
+{
+    
+    self.image = [UIImage imageNamed:@"huce1"];
+    
+}
 
 
 

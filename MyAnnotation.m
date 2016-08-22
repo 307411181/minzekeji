@@ -18,7 +18,11 @@
 {
     
     self.image = [UIImage imageNamed:@"1"];
+<<<<<<< HEAD
 //    main 
+=======
+//    我是php1  11
+>>>>>>> php1
 }
 
 

@@ -1,4 +1,4 @@
-//
+﻿//
 //  MyAnnotation.m
 //  mapkit
 //
@@ -17,7 +17,7 @@
 - (void)initWithImage
 {
     
-    self.image = [UIImage imageNamed:@"1"];
+    self.image = [UIImage imageNamed:@"55555"];
     
 }
 

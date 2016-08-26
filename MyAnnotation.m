@@ -1,4 +1,4 @@
-//
+﻿//
 //  MyAnnotation.m
 //  mapkit
 //
@@ -21,7 +21,7 @@
 <<<<<<< HEAD
 //    main 
 =======
-//    我是php1  11
+//    我是php
 >>>>>>> php1
 }
 

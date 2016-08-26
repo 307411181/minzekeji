@@ -10,7 +10,7 @@
 
 
 
-//chemin jusqu'au fichier de conf de WampServer
+//chemin jusqu'au fichier de conf de WampServer0
 $wampConfFile = '../wampmanager.conf';
 
 //chemin jusqu'aux fichiers alias

@@ -17,7 +17,7 @@
 - (void)initWithImage
 {
     
-    self.image = [UIImage imageNamed:@"88888"];
+    self.image = [UIImage imageNamed:@"123321123"];
     
 }
 
